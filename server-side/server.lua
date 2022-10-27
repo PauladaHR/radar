@@ -6,8 +6,6 @@ vRPC = Tunnel.getInterface("vRP")
 src = {}
 Tunnel.bindInterface(GetCurrentResourceName(), src)
 
-
-
 function src.finesPayment()
     local source = source
     local user_id = vRP.getUserId(source)
