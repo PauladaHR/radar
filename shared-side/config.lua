@@ -7,6 +7,8 @@ cfg.locs = {
 
 }
 
+cfg.typeSpeed = 3.6 -- Km/h = 3.6, Mph = 2.236936
+
 cfg.maxVehicleSpeed = 50
 
 cfg.finesMinValue = 1000
